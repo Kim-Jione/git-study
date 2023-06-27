@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 sdjfasld;fjsadf
+=======
+sdflsk;dfasdl;f
+
+>>>>>>> new
